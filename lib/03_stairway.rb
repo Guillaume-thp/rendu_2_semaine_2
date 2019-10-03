@@ -32,6 +32,12 @@ def rejouer_des
     end
 end
 
+#def average_finish_time
+    #100.times do
+    #rejouer_des
+    #puts average.rejouer_des
+    #pas réussi à le faire
+
 def perform
     lancer_de_des
     resultat_des
